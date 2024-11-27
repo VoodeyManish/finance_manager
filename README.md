@@ -5,7 +5,7 @@ The application is designed to be user-friendly and can be used by anyone who wa
 
 Features User Registration and Authentication: Create a secure user account to manage personal finances. Income and Expense Tracking: Record, update, and delete transactions, categorizing them into different expense or income types (e.g., food, salary, rent). Financial Reports: Generate monthly and yearly reports to analyze income, expenses, and savings. Budgeting: Set and track monthly budgets for various categories to control spending. Backup and Restore: Back up data and restore it easily to ensure data integrity. SQLite Database: The application uses an SQLite database to store user data and transaction details. Technologies Used Python: Programming language used to build the application. SQLite: Database used to persist user data and transactions. datetime: Python's built-in module used for date operations. shutil: To handle backup and restore operations. Installation Clone this repository to your local machine:
 
-bash git clone  Navigate to the project directory:
+bash git clone https://github.com/VoodeyManish/finance_manager.git Navigate to the project directory:
 
 bash cd finance-manager Ensure Python 3.x is installed on your system. You can verify this by running:
 
